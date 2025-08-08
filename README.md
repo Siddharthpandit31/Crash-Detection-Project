@@ -40,5 +40,3 @@ This brief methodology outlines the key steps in building the crash detection sy
 
 
 
-
-Ask ChatGPT
